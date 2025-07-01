@@ -10,7 +10,8 @@ Pensez à télécharger manuellement le dossier `data/` contenant les fichiers E
 > Cliquez sur un notebook pour l’ouvrir dans Google Colab :
 
 - [01 - Calcul Numérique avec Numpy](https://colab.research.google.com/github/Fred-Zang/AJC_bigdata_python_analyse_donnees/blob/main/01-CALCUL_NUMERIQUE_python-numpy.ipynb)
-- [02 - Calcul Matriciel avec Numpy](https://colab.research.google.com/github/Fred-Zang/AJC_bigdata_python_analyse_donnees/blob/main/02-CALCUL_MATRICIEL_numpy.ipynb)
+- [02 - Calcul Matriciel avec Numpy](https://colab.research.google.com/github/Fred-Zang/AJC_bigdata_python_analyse_donnees/blob/main/02a_Numpy_Indexing_Slicing_Boolean_Indexing.ipynb)
+- [02 - Calcul Matriciel avec Numpy](https://colab.research.google.com/github/Fred-Zang/AJC_bigdata_python_analyse_donnees/blob/main/02b_Numpy_Maths_Statistiques.ipynb)
 - [03 - Matplotlib (les Bases)](https://colab.research.google.com/github/Fred-Zang/AJC_bigdata_python_analyse_donnees/blob/main/03%20-%20Matplotlib%20(les%20Bases).ipynb)
 - [04 - Matplotlib : Top Graphiques](https://colab.research.google.com/github/Fred-Zang/AJC_bigdata_python_analyse_donnees/blob/main/04%20-%20Matplotlib%20Top%20Graphiques.ipynb)
 - [05 - Scipy](https://colab.research.google.com/github/Fred-Zang/AJC_bigdata_python_analyse_donnees/blob/main/05%20-%20Scipy.ipynb)
